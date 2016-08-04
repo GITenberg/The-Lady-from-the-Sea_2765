@@ -1,0 +1,48 @@
+_repo: The-Lady-from-the-Sea_2765
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Aveling, Eleanor Marx
+    aliases:
+    - Marx, Eleanor
+    - Marx-Aveling, Eleanor
+    - Eveling, Eleonora Marks
+    - Marx, Tussy
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '902'
+    url: http://www.gutenberg.org/2009/agents/902
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_Marx
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: Ibsen's lyrical and still startlingly modern masterpiece vibrantly explores
+  the constrained social position of women. When the lighthouse keeper's daughter
+  Ellida meets the widower Dr Wangel, she tries to put her long-lost first love far
+  behind her and begin a new life as a wife and stepmother. But the tide is turning,
+  an English ship is coming down the fjord, and the undercurrents threaten to drag
+  a whole family beneath the surface in this passionate and sweeping drama. Ellida
+  must choose between the solid and reliable values of the land and the fluid, mysterious
+  and frightening attraction of the sea.
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Drama'
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcc 'PT'
+- !lcsh 'Norwegian drama -- Translations into English'
+- !lcsh 'Family secrets -- Drama'
+- GITenberg
+title: The Lady from the Sea
+url: http://www.gutenberg.org/ebooks/2765
